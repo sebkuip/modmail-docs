@@ -3,6 +3,7 @@ description: A list of commonly asked questions or problems related to Modmail.
 ---
 
 # Frequently Asked Questions
+<<<<<<< HEAD
 
 ### I tried installing the dependencies with another Python version and it messed up my Pipfile! How can I get the original Pipfile back?
 
